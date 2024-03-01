@@ -1,4 +1,5 @@
-wget run https://aof-os.pdrewicz.site/os/client/start.lua
+Instal:<br />
+&emsp;wget run https://aof-os.pdrewicz.site/os/client/start.lua<br /><br />
 
 Creating apps:<br />
   &emsp;apps are saved in /programs/[name]/<br />
