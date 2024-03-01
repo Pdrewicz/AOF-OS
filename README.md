@@ -1,4 +1,4 @@
-Instal:<br />
+Install:<br />
 &emsp;wget run https://aof-os.pdrewicz.site/os/client/start.lua<br /><br />
 
 Creating apps:<br />
