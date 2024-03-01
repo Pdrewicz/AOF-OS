@@ -1,0 +1,14 @@
+{
+    "apps": [
+        {
+            "name": "musicPlayer",
+            "displayName": "Music player",
+            "url": "http://aof-os.pdrewicz.site/musicplayer/client/startUI.lua",
+            "bg": "b",
+            "fg": "f",
+            "icon": 14,
+            "iconColor": "1",
+            "borderColor": "f"
+        }
+    ]
+}
