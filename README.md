@@ -3,7 +3,7 @@ Install:<br />
 
 Creating apps:<br />
   &emsp;apps are saved in /programs/[name]/<br />
-  &emsp;use reqire("/basalt") for shared ui library<br />
+  &emsp;use 'require("/basalt")' for shared ui library<br />
   &emsp;for stuff only meant to happen when app is used through AOF-OS check for arg[1] == "aof-os"<br />
 
   &emsp;editable properties:
